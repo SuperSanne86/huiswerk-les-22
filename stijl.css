@@ -1,0 +1,13 @@
+footer {
+  height: 200px;
+}
+.welkom {
+  font-size: 25px;
+  padding-top: 10px;
+}
+footer, .welkom, .hier {
+  padding-left: 10px;
+}
+.col {
+  padding-bottom: 10px;
+}
